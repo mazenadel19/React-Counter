@@ -1,9 +1,9 @@
-# React Custom Hooks
+# React Counter
 
 ## 🚀 Getting Started
 
 - open terminal
-- git clone `https://github.com/mazenadel19/react-custom-hooks.git`
+- git clone `https://github.com/mazenadel19/react-counter.git`
 - `npm i`
-- cd react-react-custom-hooks
+- cd react-counter
 - `npm start` or `yarn start`
